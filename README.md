@@ -1,2 +1,2 @@
 # inethi-moodle-integration
-A collaborative project between UCT Developers' Society and iNethi to integrate Moodle for teachers to build content
+Docker-compose for iNethi to integrate Moodle for teachers
